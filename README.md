@@ -5,7 +5,12 @@
 Welcome to my GitHub profile! I am Dhaarini D, a passionate full stack developer currently pursuing a B.Tech in Information Technology at PSNA College of Engineering and Technology. I enjoy creating user-focused, dynamic web applications and thrive on innovation. Here, you'll find some of the projects I have worked on, showcasing my skills and interests.
 
 ## Projects
-
+### HostelHub-Hostel Management System
+- **Description**:The Hostel Management System is a software solution for managing student accommodations, including room allocation, check-ins, check-outs, and fee management.
+- **Technology**:Zoho Creator 
+### Train Ticket Booking System
+- **Description**:The Train Ticket Booking System is a web-based application for managing train reservations, including seat allocation, booking, and cancellation functionalities.
+- **Technology**: HTML,CSS,JS
 ### Suction-Powered Sanitation System
 - **Description**: A low-cost toilet flushing system based on suction principles, designed to eliminate the need for electricity and contribute to sustainable sanitation in rural areas.
 - **Technology**: 3D modeling, Fusion 360
@@ -32,9 +37,10 @@ Welcome to my GitHub profile! I am Dhaarini D, a passionate full stack developer
 
 ## Certifications
 
+- **Zoho Creator  Student Training Certification**
 - **CISCO Certification**: Data Science
 - **MongoDB Certification**: For Students
-- **UiPath Studio**: Explore Automation Development
+- **Skillrack Certification**:SQL Basics
 - **SUITS Certificate**: C, Programming Techniques, Office Automation, C++
 
 ## Internship
@@ -45,8 +51,9 @@ Welcome to my GitHub profile! I am Dhaarini D, a passionate full stack developer
 
 ## Achievements
 
+- **Won Third place in poster making competition**: Held at PSNACET
+- **Participated and get apperciation in TNWISE 2025** Held at SONA
 - **Hacker Rank Certification**: SQL, Java Basics
-- **EPFO Quiz**: National Level Certification
 - **E-Yantra**: Certificate of Participation (Engineering Students) - eYantra IIT Bombay
 
 ## Education
@@ -61,9 +68,8 @@ Welcome to my GitHub profile! I am Dhaarini D, a passionate full stack developer
 ## Extra-Curricular Activities
 
 - Participated in college events
-- Key player in throw ball at school events
 - Quick learner of new things
-- School topper and class topper
+
 
 ## Languages
 
